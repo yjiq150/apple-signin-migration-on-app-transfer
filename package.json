@@ -1,0 +1,12 @@
+{
+  "name": "apple-signin-migration-on-app-transfer",
+  "version": "1.0.0",
+  "description": "It is a set of code samples to migrate Apple Sign In users when transferring app to another account.",
+  "author": "Youngjae Kwon <yjiq150@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "qs": "^6.11.2"
+  }
+}
